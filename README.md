@@ -1,7 +1,7 @@
 ### Arham here,  👋
 
 
-<a href="https://github.com/arhammxo/arhammxo/blob/main/puter.png"><img src="https://github.com/arhammxo/arhammxo/blob/main/puter.png" align="center" height="500" width="500" ></a>
+<a href="https://github.com/arhammxo/arhammxo/blob/main/puter.png"><img src="https://github.com/arhammxo/arhammxo/blob/main/puter.png" align="right" height="500" width="500" ></a>
 <!--
 **arhammxo/arhammxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
