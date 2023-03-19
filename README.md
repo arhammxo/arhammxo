@@ -1,4 +1,4 @@
-### Arham here, welcome to my natural habitat  👋
+### Arham here, here's a little about me:
 
 <p align="center">
   <a href="https://github.com/arhammxo/arhammxo/blob/main/puter16.png"><img src="https://github.com/arhammxo/arhammxo/blob/main/puter16.png" align="center" height="200"></a>
