@@ -1,7 +1,7 @@
 ### Arham here,  👋
 
-![on_the_puter](https://github.com/arhammxo/arhammxo/blob/main/puter.png =250x250)
 
+<img src="https://github.com/arhammxo/arhammxo/blob/main/puter.png" data-canonical-src="https://github.com/arhammxo/arhammxo/blob/main/puter.png" width="200" height="400" />
 <!--
 **arhammxo/arhammxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![on_the_puter](https://github.com/arhammxo/arhammxo/blob/main/puter.png)
 -->
