@@ -1,6 +1,6 @@
 ### Arham here,  👋
 
-![on_the_puter](https://github.com/arhammxo/arhammxo/blob/main/puter.png =500x500)
+![on_the_puter](https://github.com/arhammxo/arhammxo/blob/main/puter.png =250x250)
 
 <!--
 **arhammxo/arhammxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
