@@ -1,6 +1,6 @@
-### Hi there 👋
+### Arham here,  👋
 
-<![Alt text](https://github.com/arhammxo/arhammxo/blob/main/puter.png?raw=true "Title")>
+![on_the_puter](https://github.com/arhammxo/arhammxo/blob/main/puter.png?raw=true "Title")
 
 <!--
 **arhammxo/arhammxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
