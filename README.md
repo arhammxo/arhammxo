@@ -1,4 +1,4 @@
-### Arham here, here's a little about me:
+### Arham here,
 
 <p align="center">
   <a href="https://github.com/arhammxo/arhammxo/blob/main/puter16.png"><img src="https://github.com/arhammxo/arhammxo/blob/main/puter16.png" align="center" height="200"></a>
@@ -6,12 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhammxo&label=Profile%20views&color=0e75b6&style=flat" alt="arhammxo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arhammxo" alt="arhammxo" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/arhammxo" target="blank"><img src="https://img.shields.io/twitter/follow/arhammxo?logo=twitter&style=for-the-badge" alt="arhammxo" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/arhammxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arhammxo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arhammxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhammxo" height="30" width="40" /></a>
 <a href="https://instagram.com/iblamearham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iblamearham" height="30" width="40" /></a>
