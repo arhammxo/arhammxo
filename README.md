@@ -1,12 +1,15 @@
-### Arham here, usually this is me
+## Arham here, usually this is me
 
 <p align="center">
   <a href="https://github.com/arhammxo/arhammxo/blob/main/puter16.png"><img src="https://github.com/arhammxo/arhammxo/blob/main/puter16.png" align="center" height="200"></a>
 </p>
 
+I am a Third Year B.Tech Student in Vellore Institute of Technology, studying Computer Science and specializing in Artificial Intelligence and Machine Learning
+I usually love learing more and more about ML and DL based applications and techniques and I mostly focus on Computer Vision as well as NLP tasks. I am also extremely passionate to learn more about various other domains such as Web Development as well as IoT based applications. An extremely curious individual who's just hingry for any morsel of knowlegde he could get his hands on.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhammxo&label=Profile%20views&color=0e75b6&style=flat" alt="arhammxo" /> </p>
 
-
+<h3 align="left">You can find me on:</h3>
 <a href="https://twitter.com/arhammxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arhammxo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arhammxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhammxo" height="30" width="40" /></a>
 <a href="https://instagram.com/iblamearham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iblamearham" height="30" width="40" /></a>
