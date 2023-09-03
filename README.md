@@ -1,7 +1,7 @@
 ## Arham here, usually this is me:
 
 <p align="center">
-  <a href="https://github.com/arhammxo/arhammxo/blob/main/puter16.png"><img src="https://github.com/arhammxo/arhammxo/blob/main/puter16.png" align="center" height="200"></a>
+    <a href="https://github.com/arhammxo/arhammxo/blob/main/puter16.png"><img src="https://github.com/arhammxo/arhammxo/blob/main/puter16.png" align="center" height="200"></a>
 </p>
 
 #### I am a Third Year B.Tech Student in Vellore Institute of Technology, studying Computer Science and specializing in Artificial Intelligence and Machine Learning.
