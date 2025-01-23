@@ -1,4 +1,4 @@
-![Animated SVG](https://arhammxo.github.io/kgc/gh.svg)
+![Animated SVG](https://arhammxo.github.io/kgc/s.svg)
 
 ## Find Me At
 
