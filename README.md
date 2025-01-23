@@ -1,13 +1,10 @@
-![Animated SVG](https://arhammxo.github.io/kgc/s.svg)
-
+![View Animated SVG](qs.svg)
 ## Find Me At
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arhammxo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arhammxo/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arhamm/)
-<!-- <a href="https://pankil-soni.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-FF5722?style=flat&logo=internet-explorer&logoColor=white" alt="Website" />
-  </a> -->
+
 
 ## About Me
 
