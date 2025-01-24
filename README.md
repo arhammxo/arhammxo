@@ -65,11 +65,6 @@ Feel free to reach out to me:
 ## Github Stats
 
 <div style="display:flex;">
-  <div style="width:'50%';" align="center">
-    
-  ![arhammxo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhammxo&theme=tokyonight&hide_border=false)
-  
-  </div>
 
   <div style="width:'50%';" align="center">
     
