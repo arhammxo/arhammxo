@@ -1,14 +1,4 @@
 ![View Animated SVG](qs.svg)
-## Find Me At
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arhammxo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arhammxo/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arhamm/)
-
-
-## About Me
-
-I am a final year B.Tech student pursuing Artificial Intelligence and Machine Learning at Vellore Institute of Technology. Passionate about building Machine Learning models and FullStack development, I am dedicated to exploring and contributing to the exciting field of artificial intelligence.
 
 ## 🚀 Tech Stack
 
@@ -33,58 +23,3 @@ I am a final year B.Tech student pursuing Artificial Intelligence and Machine Le
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-
-
-
-## 🌱 Learning
-
-**I am currently focused on enhancing my knowledge in:**
-
-- Deep Learning
-- Generative AI
-- DevOps & MLOps practices for seamless AI or non-AI Service deployments and monitoring
-- Cloud Platforms : AWS, GCP and Azure
-
-## 🛠️ What I Can Help With
-
- - **Designing and Implementing end-to-end Machine Learning pipelines**
- - **Fine-Tuning Deep Learning Models**
- - **Deploying Services or ML models on the cloud platforms**
- - **Developing end-to-end complex Full Stack Web Applications using the MERN stack**
- - **Building end-to-end complex Browser (chrome) extensions**
- - **Developing Cross Platform Mobile Application using React-Native Framework**
-
-## 📫 Contact
-
-Feel free to reach out to me:
-
-- Email: arhammxo@gmail.com
-- LinkedIn: https://www.linkedin.com/in/arhammxo/
-- My Website 🌐  : https://arhammxo.github.io/
-
-## Github Stats
-
-<div style="display:flex;">
-
-  <div style="width:'50%';" align="center">
-    
-  ![arhammxo's Stats](https://github-readme-stats.vercel.app/api?username=arhammxo&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-  
-  </div>
-
-  <div style="width:'50%';" align="center">
-    
-  ![arhammxo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhammxo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-  </div>
-
-  
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arhammxo&theme=tokyonight&no-frame=true&row=1&column=7" alt="arhammxo" />
-  </a>
-  
-</div>
