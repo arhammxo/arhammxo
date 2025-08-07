@@ -6,7 +6,9 @@
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Flask API](https://img.shields.io/badge/Flask%20API-%23000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 [![YOLO](https://img.shields.io/badge/YOLO-%23F9D616.svg?style=flat&logo=youtube&logoColor=white)](https://pjreddie.com/darknet/yolo/)
